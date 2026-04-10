@@ -1,6 +1,6 @@
 # Dig into Apollo ![GitHub](https://img.shields.io/github/license/daohu527/Dig-into-Apollo.svg?style=popout) [![Documentation Status](https://readthedocs.org/projects/dig-into-apollo/badge/?version=latest)](https://dig-into-apollo.readthedocs.io/en/latest/?badge=latest)
 
-> **"Shifting from Code Analysis to Engineering Wisdom."**
+> **"Shifting from Code Analysis to Engineering Wisdom."**.
 
 Dig into Apollo was originally designed to help developers navigate the [Apollo](https://github.com/ApolloAuto/apollo) autopilot system. As AI evolves to handle basic code explanation, this project is pivoting to focus on **Design Patterns**, **Engineering Trade-offs**, and **Real-world Troubleshooting**—the "human" experience that AI cannot replicate.
 
